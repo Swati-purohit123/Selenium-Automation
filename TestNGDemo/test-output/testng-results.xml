@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-05T00:11:37 IST" name="Suite" finished-at="2022-04-05T00:12:15 IST" duration-ms="37873">
+    <groups>
+    </groups>
+    <test started-at="2022-04-05T00:11:37 IST" name="Test" finished-at="2022-04-05T00:12:15 IST" duration-ms="37873">
+      <class name="test.TestHotelAppTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.TestHotelAppTest@6e9175d8]" started-at="2022-04-05T00:11:48 IST" name="beforeMethod" finished-at="2022-04-05T00:11:57 IST" duration-ms="9406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TesthotelApp()[pri:0, instance:test.TestHotelAppTest@6e9175d8]" started-at="2022-04-05T00:11:57 IST" name="TesthotelApp" finished-at="2022-04-05T00:12:00 IST" duration-ms="2679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TesthotelApp -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.TestHotelAppTest@6e9175d8]" started-at="2022-04-05T00:12:00 IST" name="afterMethod" finished-at="2022-04-05T00:12:01 IST" duration-ms="560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.TestHotelAppTest -->
+      <class name="test.NewTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.NewTest@8519cb4]" started-at="2022-04-05T00:11:37 IST" name="beforeTest" finished-at="2022-04-05T00:11:48 IST" duration-ms="10901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="TestHotelAppTest()[pri:0, instance:test.NewTest@8519cb4]" started-at="2022-04-05T00:12:01 IST" name="TestHotelAppTest" finished-at="2022-04-05T00:12:14 IST" duration-ms="12963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHotelAppTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.NewTest@8519cb4]" started-at="2022-04-05T00:12:14 IST" name="afterTest" finished-at="2022-04-05T00:12:15 IST" duration-ms="1280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
